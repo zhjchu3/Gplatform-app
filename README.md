@@ -1,2 +1,2 @@
-# storkapp
-荔湾资源移动端存放文件
+# goa
+goa plist文件
