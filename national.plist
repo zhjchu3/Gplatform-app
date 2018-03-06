@@ -1,30 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIS 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plise version="1.0">
-    <dict>
-        <key>item</key>
-        <array>
-            <dict>
-                <key>assets</key>
-                <array>
-                    <dict>
-                        <key>kind</key>
-                        <string>software-package</string>
-                        <key>url</key>
-                        <string>https://zhpt.gzmzzj.gov.cn/uploadApp/package/iphone.ipa</string>
-                    </dict>
-                </array>
-                <dict>
-                    <key>bundle-identifier</key>
-                    <string>cn.oz.gplatform.mzmobile</string>
-                    <key>bundle-version</key>
-                    <string>1.1.0</string>
-                    <key>kind</key>
-                    <string>software</string>
-                    <key>title</key>
-                    <string>综合管理应用平台</string>
-                </dict>
-            </dict>
-        </array>
-    </dict>
-</plise>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://zhpt.gzmzzj.gov.cn/uploadApp/package/iphone.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>cn.oz.gplatform.mobile.test</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Gplatform</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
